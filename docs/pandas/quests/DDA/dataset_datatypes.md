@@ -1,1 +1,10 @@
-# 숙제
+# PassengerId
+# Pclass
+# Name
+# Sex
+# Age
+# SibSp
+# Parch
+# Ticket
+# Fare
+# Embarked
