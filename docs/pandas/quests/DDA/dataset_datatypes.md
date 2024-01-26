@@ -8,3 +8,5 @@
 # Ticket
 # Fare
 # Embarked
+|--|--|--|--|
+|Variable|Definition|Key|분석가 의견|
