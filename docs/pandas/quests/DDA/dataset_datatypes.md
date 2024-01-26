@@ -1,5 +1,7 @@
+## DDA 분석
 <details>
 <summary>타이타닉</summary>
+
 # PassengerId
 # Pclass
 # Name
